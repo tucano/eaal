@@ -1,3 +1,7 @@
+== 0.1.6 2009-08-26
+ * many fixes (Hoe spec, parse_element method, memcached) by DavideRambaldi (tucano@github)
+ * Added some additional test and fixtures by DavideRambaldi (tucano@github)
+
 == 0.1.5 2009-04-10
  * 1 fix:
    * code cleanup by JamesHarrison
